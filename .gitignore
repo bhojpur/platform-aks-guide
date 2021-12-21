@@ -1,0 +1,5 @@
+.env
+.kube
+.idea
+bhojpur.yaml
+bhojpur-config.yaml
