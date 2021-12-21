@@ -1,2 +1,2 @@
-# Bhojpur.NET Platform on Microsoft Azure Kubernetes Engine
+# Bhojpur.NET Platform on Microsoft AKE
 To run Bhojpur.NET Platform in Microsoft AKS
