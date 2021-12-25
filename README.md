@@ -95,14 +95,14 @@ registry-facade-84sgf                     2/2     Running   0          7m34s
 registry-facade-n6kc9                     2/2     Running   0          7m35s
 registry-facade-zt7qt                     2/2     Running   0          7m34s
 server-689b886647-dkd5h                   2/2     Running   0          7m34s
-ws-48fe6d74-6e6d-4e3e-a6a4-1bf160b4ed3d   1/1     Running   0          2m43s
-ws-daemon-v8284                           2/2     Running   0          7m35s
-ws-daemon-vs59b                           2/2     Running   0          7m35s
-ws-daemon-w6gmj                           2/2     Running   0          7m35s
-ws-manager-54c8f9995f-lrrkx               1/1     Running   0          7m34s
-ws-manager-bridge-8648cd6b69-nqxnh        2/2     Running   0          7m34s
-ws-proxy-574f9dcbcc-qrn5m                 1/1     Running   0          7m33s
-ws-scheduler-84d99cbbbb-5p86k             2/2     Running   0          7m34s
+bp-48fe6d74-6e6d-4e3e-a6a4-1bf160b4ed3d   1/1     Running   0          2m43s
+bp-daemon-v8284                           2/2     Running   0          7m35s
+bp-daemon-vs59b                           2/2     Running   0          7m35s
+bp-daemon-w6gmj                           2/2     Running   0          7m35s
+bp-manager-54c8f9995f-lrrkx               1/1     Running   0          7m34s
+bp-manager-bridge-8648cd6b69-nqxnh        2/2     Running   0          7m34s
+bp-proxy-574f9dcbcc-qrn5m                 1/1     Running   0          7m33s
+bp-scheduler-84d99cbbbb-5p86k             2/2     Running   0          7m34s
 ```
 
 ### Test Bhojpur.NET Platform applications
